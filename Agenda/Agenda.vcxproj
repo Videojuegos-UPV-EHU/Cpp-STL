@@ -23,7 +23,7 @@
     <ProjectGuid>{7E51CF27-1363-4331-A978-6A1683F00292}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>Agenda</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
     <ProjectName>06.Exercise.Agenda</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

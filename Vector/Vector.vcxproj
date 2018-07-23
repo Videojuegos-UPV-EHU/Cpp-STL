@@ -23,7 +23,7 @@
     <ProjectGuid>{AB437B64-D15F-4D24-AF60-B22AD354ECB0}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>Vector</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
     <ProjectName>01.Vector</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
